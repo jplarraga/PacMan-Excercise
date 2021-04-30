@@ -6,9 +6,11 @@ This is a basic animation Excercise using Arcade's image PacMan
 <br>
 
 <h2>Instalation</h2>
-<ul>The code is free to download on this respository</ul>
-<ul>You might just need a code editor and an Internet Browser, my recomendation<b>Chrome</b></ul>
-<ul>If you are using<b>VSCode</b> I recommend to download the<b>Live Server</b> extension so you can see your changes as soon as you hit <i>Comand+s</i></ul>  
+<ul>
+<li>The code is free to download on this respository</li>
+<li>You might just need a code editor and an Internet Browser, my recomendation<b>Chrome</b></li>
+<li>If you are using<b>VSCode</b> I recommend to download the<b>Live Server</b> extension so you can see your changes as soon as you hit <i>Comand+s</i></li>  
+</ul>
 <br>
   
 <h2>Usage</h2>
