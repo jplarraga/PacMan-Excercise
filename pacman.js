@@ -6,8 +6,8 @@ let pageWidth = window.innerWidth;
 //the array contains 4 images : right sided mouth opened (Pacman1.png), right sided mouth closed (Pacman2.png)
 
 const pacArray = [
-  ['./images/PacMan1.png', './images/PacMan2.png'],
-  ['./images/PacMan3.png', './images/PacMan4.png'],
+  ['./images/pacman1.png', './images/pacman2.png'],
+  ['./images/pacman3.png', './images/pacman4.png'],
 ];
 
 // the direction variable will determine if the images goes to the right(0) or if it goes to the left(1)

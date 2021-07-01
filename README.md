@@ -1,5 +1,6 @@
 # PacMan-Excercise
 This is a basic animation Excercise using Arcade's image PacMan
+<img src="images/pacman_readme.png" alt="pacmen excercise">
 
 <h2> Description </h2>
 <p> This prject is a simple <b>animation excercise</b> in which I use an arcade-based Pacman image and I give it movement taking certain parameters such as the direction of the image, the change in postition, the focus which is the state of the face of the Pacman and then I set a function to make the image to be excecuted over a specific time interval</p>
